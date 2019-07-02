@@ -22,8 +22,8 @@ public class ProfessorDao {
     
     public static void main(String[] args) {
         Professor objeto = new Professor();
-        objeto.setNome("Mateus");
-        objeto.setSobrenome("Nicolodi");
+        objeto.setNome("Iago");
+        objeto.setSobrenome("Loco");
         objeto.setEndereco("R. Paraíso 184, Espumoso");
         
         boolean resultado = inserir(objeto);
