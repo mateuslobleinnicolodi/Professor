@@ -182,7 +182,7 @@ public class Manutencao_Professor extends javax.swing.JDialog {
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
-    private javax.swing.JTextField jtfEndereco;
+    public javax.swing.JTextField jtfEndereco;
     public javax.swing.JTextField jtfNome;
     public javax.swing.JTextField jtfSobrenome;
     // End of variables declaration//GEN-END:variables
